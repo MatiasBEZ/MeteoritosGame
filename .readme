@@ -1,0 +1,15 @@
+#METEORITOS
+
+***
+Meteoritos es un juego 2D del tipo shmup para pc donde controlaremos
+a una nave con el objetivo de escapar de nuestros enemigos y llegar
+hasta los rele de masa que nos transportan a otra galaxia
+***
+
+***Engine*** Godot v3.3.3
+
+***Lenguaje*** GDScript
+
+***Plataforma:*** PC
+
+***Genero:*** Shrump
